@@ -36,3 +36,8 @@ button {
 	padding: 5px 1rem;
 	cursor: pointer;
 }
+
+img {
+	height: 100px;
+	width: 100px;
+}
