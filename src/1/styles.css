@@ -108,13 +108,13 @@ html {
 	flex-direction: column;
 }
 .human {
-	display: flex;
+	/* display: flex; */
 	z-index: 1;
 	width: 380px;
 	height: 411px;
-	padding-top: 10rem;
-	padding-left: 16rem;
-	object-fit: none;
+	padding-top: 11rem;
+	padding-left: 18rem;
+	/* object-fit: none; */
 }
 .lamp {
 	object-fit: none; 
