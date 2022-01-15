@@ -27,7 +27,7 @@ html {
 .list-item {
 	display: flex;
 }
-button {
+.btn {
 	color: rgb(124, 124, 124);
 	background-color: transparent;
 	border: none;
@@ -39,7 +39,7 @@ button {
 	align-items: center;
 }
 
-img {
+.img {
 	height: 108px;
 	width: 192px;
 	object-fit: cover;
