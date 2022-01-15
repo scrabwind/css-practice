@@ -32,8 +32,8 @@ html {
 	padding: 4rem 13rem 0 7rem;
 }
 .logo {
-	width: 350px;
-	height: 128px;
+	/* width: 350px;
+	height: 128px; */
 	align-self: center;
 }
 .welcome {
@@ -82,10 +82,10 @@ html {
 	align-items: center;
 	justify-content: center;
 }
-.ig-icon {
+/* .ig-icon {
 	width: 60px;
 	height: 60px;
-}
+} */
 .ig-id {
 	font-family: Risque;
 	font-size: 2rem;
@@ -108,14 +108,16 @@ html {
 	flex-direction: column;
 }
 .human {
+	display: flex;
 	z-index: 1;
 	width: 380px;
 	height: 411px;
-	padding-left: 17rem;
+	padding-top: 10rem;
+	padding-left: 16rem;
+	object-fit: none;
 }
 .lamp {
-	width: 174px;
-	height: 276px;
+	object-fit: none; 
 	padding-left: 15rem;
-	/* position: absolute; */
+	position: absolute;
 }
